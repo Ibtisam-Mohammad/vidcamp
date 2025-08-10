@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-genai
+google-search-results
+pydantic
+python-multipart
+python-dotenv
